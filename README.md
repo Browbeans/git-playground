@@ -1,2 +1,2 @@
-# git-playground
+# Git playground
 First git-repository, trying it out.
